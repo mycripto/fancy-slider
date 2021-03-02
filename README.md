@@ -1,1 +1,1 @@
-# fancy-slider
+# Add image to create slider
